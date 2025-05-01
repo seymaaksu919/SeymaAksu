@@ -26,12 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
----
 
+### 🌟 A Little Note:
 
----
-
-### 🌱 Side note:
-
-> Currently building small but meaningful projects to strengthen my portfolio.  
-> I believe in lifelong learning and improving one step at a time.  
+> I enjoy working on small, real-world projects that help me grow step by step.  
+> For me, learning is a journey — and every project is a chance to get better.
