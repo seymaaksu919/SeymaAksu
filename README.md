@@ -1,7 +1,7 @@
-# -eymaAksu
+# -SeymaAksu
 
-<h1 align="center">Hi 👋, I'm Şeyma</h1>
-<h3 align="center">A curious developer on a journey in Mobile Development & Data Science</h3>
+<h1 align="center">Hi , I'm Şeyma</h1>
+
 
 ---
 
@@ -19,7 +19,6 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
@@ -29,17 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seymaaksu919&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seymaaksu919&layout=compact&theme=dracula)
-
----
-
-### 📫 How to reach me:
-
-- ✉️ Mail: **[şeymaaksu@gmail.com](mailto:şeymaaksu@gmail.com)**  
-- 💼 LinkedIn: [linkedin.com/in/seymaaksu](https://www.linkedin.com/in/seymaaksu) *(eğer varsa, yoksa silebiliriz)*
 
 ---
 
