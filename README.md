@@ -1,4 +1,3 @@
-# Seyma Aksu
 
 <h1 align="center">Hi , I'm Şeyma</h1>
 
