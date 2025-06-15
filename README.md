@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi , I'm Şeyma</h1>
 
 A motivated computer engineering student from Türkiye 🇹🇷
 
 - 🔭 I’m currently working on **Python, Machine Learning, and Data Analysis Projects**
-- 🌱 I’m currently improving my skills in **JavaScript** and **Web Technologies**
+- 🌱 I’m currently improving my skills in **JavaScript**, **Web Technologies**, **Flask**, and **SQL**
 - 🐧 I’m comfortable working on **Linux systems**
-- 💬 Ask me about **Data Science, Python, Machine Learning**
+- 💬 Ask me about **Data Science, Python, Machine Learning
 
 ## 🛠️ Languages and Tools:
 
@@ -17,8 +16,9 @@ A motivated computer engineering student from Türkiye 🇹🇷
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 </p>
-
 
 ### 🌟 A Little Note:
 
